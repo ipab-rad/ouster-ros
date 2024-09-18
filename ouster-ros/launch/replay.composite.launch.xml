@@ -56,7 +56,8 @@
     native,
     xyz,
     xyzi,
-    xyzir
+    xyzir,
+    xyzit
     }"/>
 
   <group>
